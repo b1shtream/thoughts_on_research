@@ -20,3 +20,16 @@ Oh man, tons. Here are just a few things.
 ● Write a paper that’s like “Hey my hypothesis was totally wrong, what’s up with that”
 
 ● Work on super long-term projects that only bear fruit after decades of work
+
+Creating diverse ecosystems is hard for humans because they like to do whatever everyone else is doing,
+even when they know it’s wrong. So when you’re trying to be a mammal and you see someone else trying to
+be a lizard, you might think they’re just doing a bad job being a mammal. “You should try having little hairs
+all over your body,” you might tell them. But a lizard isn’t a bad mammal. It’s a lizard. Its job is to eat flies
+and bask on rocks.
+
+Be the lizard. The mammals—that is, mainstream scientists, the ones who get PhDs and
+professor jobs—have their niche covered. What we need is more people doing botany in their backyards. We
+need basement chemists. We need amateur geologists and meteorologists.
+Heck, if some mammals want to try a different niche, so much the better: ditch the projects you think are
+pointless, do the thing you think is most important, write it in your own words, and put it on the internet.
+There’s plenty of space for everyone. - [https://ajr.fyi/files/fractal-canon.pdf](https://ajr.fyi/files/fractal-canon.pdf)
