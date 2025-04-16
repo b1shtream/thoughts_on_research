@@ -33,3 +33,7 @@ need basement chemists. We need amateur geologists and meteorologists.
 Heck, if some mammals want to try a different niche, so much the better: ditch the projects you think are
 pointless, do the thing you think is most important, write it in your own words, and put it on the internet.
 There’s plenty of space for everyone. - [https://ajr.fyi/files/fractal-canon.pdf](https://ajr.fyi/files/fractal-canon.pdf)
+
+### Applying to Grad School & Doing Impactful Research - Prof. Onur Mutlu
+
+[https://people.inf.ethz.ch/omutlu/pub/onur-ISCA-UndergraduateMentoringWorkshopPanel-ApplyingToGradSchool-June-13-2020.pdf](https://people.inf.ethz.ch/omutlu/pub/onur-ISCA-UndergraduateMentoringWorkshopPanel-ApplyingToGradSchool-June-13-2020.pdf)
