@@ -37,3 +37,5 @@ There’s plenty of space for everyone. - [https://ajr.fyi/files/fractal-canon.p
 ### Applying to Grad School & Doing Impactful Research - Prof. Onur Mutlu
 
 [https://people.inf.ethz.ch/omutlu/pub/onur-ISCA-UndergraduateMentoringWorkshopPanel-ApplyingToGradSchool-June-13-2020.pdf](https://people.inf.ethz.ch/omutlu/pub/onur-ISCA-UndergraduateMentoringWorkshopPanel-ApplyingToGradSchool-June-13-2020.pdf)
+
+"Do what you are really excited about. Everything will follow." [https://www.youtube.com/watch?v=6Hpn4SAX0dI](https://www.youtube.com/watch?v=6Hpn4SAX0dI)
